@@ -1,0 +1,256 @@
+﻿body
+{
+    background-color:DarkSlateGrey;
+    width:100%;
+    text-align:center;
+    font-family:Arial;
+    font-size: 20px;
+    font-weight:Bold;
+}
+
+.top
+  {
+background-image: url("https://png.pngtree.com/back_origin_pic/04/21/36/e79bec6267f3f0a959dbd8581e7201b6.jpg");
+background-size: cover;
+width: 100%;
+height: 550px;
+position: relative;
+padding-top: 100px;
+
+
+  }
+
+h1
+
+{
+    font-size: 4rem;
+     margin-top: 150px;
+     margin-bottom: 120px;
+     margin-right: 100px;
+     margin-left: 150px;
+    font-family: 'Jokerman', cursive;
+    color: Darkblue;
+
+}
+
+h3
+{
+     margin-top: 0px;
+     font-size: 2rem;
+     font-family:'Ravie', cursive;
+     color:Sienna;
+     text-align: center;
+ }
+
+h2
+{
+     font-size: 2rem;
+     font-family:'Lucida Calligraphy', cursive;
+     color:White;
+     text-align: center;
+     text-shadow: 2px 2px Tomato;
+}
+ .Mid
+ {
+
+     width: 100%;
+     height: 300px;
+ }
+
+
+.MyFace
+  {
+    border-style:solid;
+    border-color:darkcyan;
+    border-width:8px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow:10px 5px 10px Lightgray;
+    }
+
+ .Me
+    {
+    width: 50%;
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    font-family: 'Times New Roman', cursive;
+    color: gray;
+    }
+
+ p
+ {
+     line-height:1;
+     color:Teal;
+ }
+
+  hr
+ {
+    margin-top:200px;
+    border-color:gray;
+    border-width:5px;
+    border-style:none;
+    border-top-style:dotted;
+    width: 10%;
+ }
+
+
+
+  .Hobbies
+
+  {
+
+    
+    margin: 100px auto ;
+    width:100%;
+    height:800%;
+  }
+
+  .Sports
+  {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+  }
+
+    .Wushu
+ {
+
+
+
+    margin:100px;
+    border-style:ridge;
+    border-color:LightSlateGrey;
+    border-width:8px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow:10px 5px 15px 5px PaleTurquoise;
+
+
+   }
+
+  .Wush
+  {
+
+    text-align: left;
+    text-shadow: 2px 2px white;
+  }
+
+   .Vball
+ {
+
+    margin: 100px;
+    border-style:inset;
+    border-color:LightSlateGrey;
+    border-width:8px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow:10px 5px 15px 5px MediumSeaGreen;
+    position: relative;
+
+
+  }
+
+  .Wushu_p
+
+  {
+    font-family: 'Bodoni MT', cursive;
+    text-align: left;
+    color:LimeGreen;
+  }
+
+.Vbal
+    {
+    text-align: right;
+    text-shadow: 2px 2px MediumSeaGreen;
+    }
+
+.Vbal_p
+{
+   font-family: 'Bodoni MT', cursive;
+   text-align: left;
+   color:CornflowerBlue;
+
+}
+
+.Basket
+ {
+
+    margin: 100px;
+    border-style:inset;
+    border-color:LightSlateGrey;
+    border-width:8px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow:10px 10px 20px Coral;
+    position: relative;
+  }
+
+  .BBall
+    {
+    text-align: right;
+    text-shadow: 2px 3px coral; 
+    }
+
+  .Bball_p
+  {
+
+   font-family: 'Bodoni MT', cursive;
+   text-align: left;
+   color:MidnightBlue;
+  }
+
+.Bottom
+{
+    background-color:DimGrey;
+    margin-top: 100px;
+}
+
+.Contact_Me
+
+{
+
+   
+   font-family: 'Copperplate Gothic Bold', cursive;
+   
+   font-size:3rem;
+   
+   text-shadow: 2px 5px black;
+
+}
+.copyright
+{
+
+   font-family: 'Copperplate Gothic Bold', cursive;
+   text-align: Center;
+   font-size:10px;
+   color:WhiteSmoke;
+   text-shadow: 2px 2px Tomato;
+}
+
+.Message
+{
+    color: Red;
+    font-family: 'Times New Roman', sans-serif;
+    margin: 10px 20px;
+    margin-top: 10px;
+    margin-top: 50px;
+    text-decoration: none;
+}
+
+.FB
+{
+    color: Blue;
+    font-family: 'Times New Roman', sans-serif;
+    margin: 10px 20px;
+    margin-top: 10px;
+    margin-top: 50px;
+    text-decoration: none;
+}
+
